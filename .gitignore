@@ -1,2 +1,9 @@
 *.pth
 *.png
+*.png
+*.jpg
+*.jpeg
+new/*.png
+new/*.jpg
+new/*.jpeg
+
